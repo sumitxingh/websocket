@@ -1,10 +1,13 @@
 const WebSocket = require('ws');
 
+let connectionCount = 0;
+
 function setupWebSocketServer(server) {
   const wss = new WebSocket.Server({ server });
 
   wss.on('connection', (ws) => {
-    console.log('New WebSocket connection');
+    connectionCount++;
+    console.log('New WebSocket connection. Total connections:', connectionCount);
 
     ws.send(JSON.stringify({ message: 'Welcome to the WebSocket server!' }));
 
@@ -19,7 +22,8 @@ function setupWebSocketServer(server) {
     }, 1000);
 
     ws.on('close', () => {
-      console.log('WebSocket connection closed');
+      connectionCount--;
+      console.log('WebSocket connection closed. Total connections:', connectionCount);
       clearInterval(intervalId);
     });
   });
