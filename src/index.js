@@ -4,9 +4,9 @@ const WebSocket = require('ws');
 const Redis = require('ioredis');
 const cluster = require('cluster');
 const os = require('os');
+const { Server } = require('http');
+const winston = require('winston'); // For logging
 const { register, httpRequestCounter, httpRequestDuration } = require('./metrics');
-const winston = require('winston'); // for logging
-const { promisify } = require('util');
 
 // Configure logging (winston)
 const logger = winston.createLogger({
@@ -27,6 +27,7 @@ const numCPUs = os.cpus().length;
 
 const server = http.createServer(app);
 
+// Redis client for publisher and subscriber
 const redisClient = new Redis({
   host: 'localhost',
   port: 6379,
@@ -41,13 +42,14 @@ redisClient.on('error', (err) => {
   logger.error('Error connecting to Redis:', err);
 });
 
+// Duplicate Redis connections for pub and sub
 const pub = redisClient.duplicate();  // Publisher connection
 const sub = redisClient.duplicate(); // Subscriber connection
 
 const USER_DATA_CHANNEL = 'user_data_channel';
 
 // Cluster logic
-if (cluster.isMaster) {
+if (cluster.isPrimary) {
   logger.info(`Master process ${process.pid} is running`);
 
   // Fork workers (one per CPU core)
@@ -61,58 +63,51 @@ if (cluster.isMaster) {
     cluster.fork(); // Fork a new worker
   });
 
-  // Redis Pub/Sub: Subscribe only in the master process to avoid multiple subscriptions
-  sub.subscribe(USER_DATA_CHANNEL);
-  sub.on('message', (channel, message) => {
-    if (channel === USER_DATA_CHANNEL) {
-      logger.info('Received message from Redis Pub/Sub:', message);
-      // Broadcast message to all worker processes via Redis
-      Object.values(cluster.workers).forEach(worker => {
-        worker.send({ type: 'BROADCAST', message });
-      });
-    }
-  });
-
   setInterval(() => {
     const eventData = JSON.stringify({ event: 'dummyEvent', data: Math.random() });
-    pub.publish(USER_DATA_CHANNEL, eventData); // Publish dummy data periodically
+    pub.publish(USER_DATA_CHANNEL, eventData);
   }, 1000);
+
 } else {
-  const wss = new WebSocket.Server({ server });
-  let connectionCount = 0;
+  
+  const wss = new WebSocket.Server({ server, maxPayload: 1024 * 1024, perMessageDeflate: false });
+
+  let connectionCount = redisClient.get('connectionCount') || 0;
 
   wss.on('connection', (ws) => {
     connectionCount++;
     // logger.info(`New WebSocket connection. Total connections: ${connectionCount}`);
 
-    // Send welcome message
-    // ws.send(JSON.stringify({ message: `Welcome to the WebSocket server! Worker PID: ${process.pid}` }));
+    // Send a welcome message to the client
+    // ws.send(JSON.stringify({ message: `Welcome to WebSocket server! Worker PID: ${process.pid}` }));
 
-    // Handle incoming messages from clients
-    ws.on('message', (data) => {
-      // logger.info(`Received message: ${data}`);
-      ws.send(JSON.stringify({ echo: data }));
-    });
+    redisClient.set('connectionCount', connectionCount);
 
+
+    sub.subscribe(USER_DATA_CHANNEL, (err, count) => {
+      if (err) {
+        logger.error('Error subscribing to Redis channel:', err);
+      } else {
+        logger.info(`Worker ${process.pid} subscribed to ${count} channel(s)`);
+      }
+    })
+
+    sub.on('message', (channel, message) => {
+      if (channel === USER_DATA_CHANNEL) {
+        // logger.info('Received message from Redis Pub/Sub:', message);
+        ws.send(message);
+      }
+    })
+
+
+    // Handle connection close
     ws.on('close', () => {
       connectionCount--;
       // logger.info(`WebSocket connection closed. Total connections: ${connectionCount}`);
     });
   });
 
-  // Listen for messages from the master process (broadcasts)
-  process.on('message', (message) => {
-    if (message.type === 'BROADCAST') {
-      // Broadcast the message to all WebSocket clients in this worker
-      wss.clients.forEach(client => {
-        if (client.readyState === WebSocket.OPEN) {
-          client.send(message.message);
-        }
-      });
-    }
-  });
-
-  // Graceful shutdown
+  // Graceful shutdown logic
   process.on('SIGINT', async () => {
     logger.info('Shutting down worker gracefully...');
     wss.clients.forEach(client => {
@@ -128,26 +123,25 @@ if (cluster.isMaster) {
     });
   });
 
-  // HTTP Metrics Middleware
+  // HTTP Metrics Middleware (optional)
   app.use((req, res, next) => {
     const start = Date.now();
     res.on('finish', () => {
       const duration = (Date.now() - start) / 1000;
-      httpRequestCounter.inc({ method: req.method, route: req.path, status: res.statusCode });
-      httpRequestDuration.observe({ method: req.method, route: req.path, status: res.statusCode }, duration);
+      logger.info(`Request completed in ${duration}s: ${req.method} ${req.path} - ${res.statusCode}`);
     });
     next();
   });
 
-  // Expose metrics at /metrics
+  // Expose /metrics endpoint (optional)
   app.get('/metrics', async (req, res) => {
     res.set('Content-Type', register.contentType);
     res.send(await register.metrics());
   });
 
-  // Route
+  // Basic route
   app.get('/', (req, res) => {
-    res.send('Hello, World!');
+    res.send('Hello, WebSocket Server!');
   });
 
   // Start the server
