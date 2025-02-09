@@ -1,0 +1,10 @@
+config:
+  target: 'ws://localhost:7002' # Change this to your WebSocket server URL
+  phases:
+    - duration: 60 # Run the test for 60 seconds
+      arrivalRate: 200 # Start with 10 new connections per second
+      rampTo: 120 # Gradually increase to 50 connections per second
+scenarios:
+  - engine: 'ws' # Use "ws" for native WebSockets
+    flow:
+      - think: 60
