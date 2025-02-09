@@ -1,0 +1,550 @@
+{"level":"info","message":"Request completed in 0.027s: GET /metrics - 200","timestamp":"2025-02-09T05:48:56.324Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:49:01.262Z"}
+{"level":"info","message":"Request completed in 0.012s: GET /metrics - 200","timestamp":"2025-02-09T05:49:06.269Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:49:11.260Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T05:49:16.268Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:49:21.258Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:49:26.258Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:49:31.259Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:49:36.258Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:49:41.256Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:49:46.256Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:49:51.254Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:49:56.253Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T05:50:00.033Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:50:00.547Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T05:50:00.662Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T05:50:00.920Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:50:01.254Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:50:06.251Z"}
+{"level":"info","message":"Request completed in 0.016s: GET /metrics - 200","timestamp":"2025-02-09T05:50:11.266Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:50:16.250Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:50:21.252Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:50:26.249Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:50:31.249Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:50:36.248Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:50:41.247Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:50:46.246Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:50:51.245Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:50:56.246Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:51:01.245Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:51:06.242Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:51:11.241Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:51:16.242Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:51:21.240Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:51:26.239Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:51:31.238Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:51:36.239Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:51:41.238Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:51:46.238Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T05:51:51.239Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:51:56.237Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T05:52:01.238Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:52:06.233Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:52:11.238Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:52:16.233Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:52:21.234Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T05:52:26.234Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:52:31.232Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:52:36.231Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:52:41.231Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:52:46.227Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:52:51.228Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:52:56.308Z"}
+{"level":"error","message":"Worker 10244 died. Restarting...","timestamp":"2025-02-09T05:52:56.628Z"}
+{"level":"error","message":"Worker 15452 died. Restarting...","timestamp":"2025-02-09T05:52:56.768Z"}
+{"level":"error","message":"Worker 10032 died. Restarting...","timestamp":"2025-02-09T05:52:56.919Z"}
+{"level":"info","message":"Master process 9908 is running","timestamp":"2025-02-09T05:52:58.596Z"}
+{"level":"info","message":"Worker 14532 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T05:53:00.487Z"}
+{"level":"info","message":"Worker 20300 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T05:53:00.507Z"}
+{"level":"info","message":"Worker 5500 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T05:53:00.501Z"}
+{"level":"info","message":"Worker 14532 subscribed to 1 channel(s)","timestamp":"2025-02-09T05:53:00.605Z"}
+{"level":"info","message":"Worker 20300 subscribed to 1 channel(s)","timestamp":"2025-02-09T05:53:00.614Z"}
+{"level":"info","message":"Worker 5500 subscribed to 1 channel(s)","timestamp":"2025-02-09T05:53:00.611Z"}
+{"level":"info","message":"Worker 16364 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T05:53:00.677Z"}
+{"level":"info","message":"Worker 16364 subscribed to 1 channel(s)","timestamp":"2025-02-09T05:53:00.714Z"}
+{"level":"info","message":"Request completed in 0.014s: GET /metrics - 200","timestamp":"2025-02-09T05:53:01.245Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:53:06.230Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:53:11.228Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:53:16.226Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:53:21.226Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:53:26.223Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T05:53:31.225Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:53:36.223Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T05:53:41.224Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T05:53:46.228Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T05:53:51.266Z"}
+{"level":"info","message":"Request completed in 0.012s: GET /metrics - 200","timestamp":"2025-02-09T05:53:56.315Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T05:54:01.225Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T05:54:06.224Z"}
+{"level":"info","message":"Request completed in 0.016s: GET /metrics - 200","timestamp":"2025-02-09T05:54:11.233Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T05:54:16.221Z"}
+{"level":"info","message":"Request completed in 0.011s: GET /metrics - 200","timestamp":"2025-02-09T05:54:21.225Z"}
+{"level":"info","message":"Request completed in 0.017s: GET /metrics - 200","timestamp":"2025-02-09T05:54:26.256Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T05:54:31.222Z"}
+{"level":"info","message":"Request completed in 0.013s: GET /metrics - 200","timestamp":"2025-02-09T05:54:36.225Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T05:54:41.221Z"}
+{"level":"info","message":"Request completed in 0.016s: GET /metrics - 200","timestamp":"2025-02-09T05:54:46.226Z"}
+{"level":"info","message":"Request completed in 0.012s: GET /metrics - 200","timestamp":"2025-02-09T05:54:51.222Z"}
+{"level":"info","message":"Request completed in 0.012s: GET /metrics - 200","timestamp":"2025-02-09T05:54:56.222Z"}
+{"level":"info","message":"Request completed in 0.013s: GET /metrics - 200","timestamp":"2025-02-09T05:55:01.221Z"}
+{"level":"info","message":"Request completed in 0.044s: GET /metrics - 200","timestamp":"2025-02-09T05:55:06.513Z"}
+{"level":"info","message":"Request completed in 0.037s: GET /metrics - 200","timestamp":"2025-02-09T05:55:11.311Z"}
+{"level":"info","message":"Request completed in 0.017s: GET /metrics - 200","timestamp":"2025-02-09T05:55:16.225Z"}
+{"level":"info","message":"Request completed in 0.025s: GET /metrics - 200","timestamp":"2025-02-09T05:55:21.315Z"}
+{"level":"info","message":"Request completed in 0.032s: GET /metrics - 200","timestamp":"2025-02-09T05:55:26.600Z"}
+{"level":"info","message":"Request completed in 0.018s: GET /metrics - 200","timestamp":"2025-02-09T05:55:31.294Z"}
+{"level":"info","message":"Request completed in 0.033s: GET /metrics - 200","timestamp":"2025-02-09T05:55:36.332Z"}
+{"level":"info","message":"Request completed in 0.029s: GET /metrics - 200","timestamp":"2025-02-09T05:55:41.307Z"}
+{"level":"info","message":"Request completed in 0.013s: GET /metrics - 200","timestamp":"2025-02-09T05:55:46.378Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T05:55:51.210Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T05:55:56.209Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T05:56:01.214Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T05:56:06.210Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T05:56:11.208Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T05:56:16.207Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:56:21.204Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T05:56:26.206Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:56:31.206Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:56:36.204Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:56:41.202Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:56:46.202Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:56:51.203Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:56:56.198Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T05:57:01.200Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:57:06.231Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:57:11.195Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:57:16.196Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:57:21.196Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:57:26.195Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T05:57:31.197Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:57:36.196Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:57:41.194Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:57:46.194Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:57:51.208Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:57:56.192Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:58:01.192Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:58:06.189Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:58:11.191Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:58:16.190Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:58:21.189Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:58:26.188Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:58:31.188Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:58:36.188Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:58:41.188Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:58:46.187Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:58:51.188Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:58:56.184Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:59:01.185Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:59:06.185Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:59:11.184Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:59:16.184Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:59:21.182Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:59:26.183Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:59:31.182Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T05:59:36.313Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:59:41.179Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T05:59:46.197Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:59:51.179Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T05:59:56.179Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:00:01.179Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:00:06.178Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:00:11.178Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:00:16.178Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:00:21.177Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:00:26.176Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:00:31.176Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:00:36.175Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:00:41.174Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:00:46.174Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:00:51.190Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:00:56.172Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:01:01.173Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:01:06.171Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:01:11.183Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:01:16.169Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:01:21.169Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:01:26.173Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:01:31.320Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:01:36.169Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:01:41.169Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:01:46.168Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:01:51.167Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:01:56.165Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:02:01.167Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:02:06.167Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:02:11.165Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:02:16.164Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:02:21.164Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:02:26.165Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:02:31.165Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:02:36.163Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:02:41.162Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:02:46.161Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:02:51.159Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:02:56.160Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:03:01.159Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:03:06.159Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:03:11.159Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:03:16.158Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:03:21.158Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:03:26.158Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:03:31.156Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:03:36.157Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:03:41.156Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:03:46.156Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:03:51.158Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:03:56.155Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:04:01.154Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:04:06.153Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:04:11.153Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:04:16.153Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:04:21.151Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:04:26.152Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:04:31.151Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:04:36.151Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:04:41.148Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:04:46.149Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:04:51.149Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:04:56.146Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:05:01.146Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:05:06.148Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:05:11.145Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:05:16.146Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:05:21.146Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:05:26.147Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:05:31.145Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:05:36.145Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:05:41.148Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:05:46.143Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:05:51.141Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:05:56.144Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:06:01.142Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:06:06.152Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:06:11.143Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:06:16.140Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:06:21.140Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:06:26.138Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:06:31.139Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:06:36.139Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:06:41.138Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:06:46.137Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:06:51.137Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:06:56.136Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:07:01.136Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:07:06.136Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:07:11.137Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:07:16.141Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:07:21.137Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:07:26.133Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:07:31.137Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:07:36.136Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:07:41.135Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:07:46.137Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:07:51.135Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:07:56.135Z"}
+{"level":"info","message":"Request completed in 0.016s: GET /metrics - 200","timestamp":"2025-02-09T06:08:01.142Z"}
+{"level":"info","message":"Request completed in 0.011s: GET /metrics - 200","timestamp":"2025-02-09T06:08:06.137Z"}
+{"level":"info","message":"Request completed in 0.012s: GET /metrics - 200","timestamp":"2025-02-09T06:08:11.137Z"}
+{"level":"info","message":"Request completed in 0.013s: GET /metrics - 200","timestamp":"2025-02-09T06:08:16.137Z"}
+{"level":"info","message":"Request completed in 0.017s: GET /metrics - 200","timestamp":"2025-02-09T06:08:21.141Z"}
+{"level":"info","message":"Request completed in 0.017s: GET /metrics - 200","timestamp":"2025-02-09T06:08:26.157Z"}
+{"level":"info","message":"Request completed in 0.019s: GET /metrics - 200","timestamp":"2025-02-09T06:08:31.175Z"}
+{"level":"info","message":"Request completed in 0.02s: GET /metrics - 200","timestamp":"2025-02-09T06:08:36.194Z"}
+{"level":"info","message":"Request completed in 0.028s: GET /metrics - 200","timestamp":"2025-02-09T06:08:41.209Z"}
+{"level":"info","message":"Request completed in 0.016s: GET /metrics - 200","timestamp":"2025-02-09T06:08:46.288Z"}
+{"level":"info","message":"Request completed in 0.034s: GET /metrics - 200","timestamp":"2025-02-09T06:08:51.321Z"}
+{"level":"info","message":"Request completed in 0.011s: GET /metrics - 200","timestamp":"2025-02-09T06:08:56.131Z"}
+{"level":"info","message":"Request completed in 0.012s: GET /metrics - 200","timestamp":"2025-02-09T06:09:01.135Z"}
+{"level":"info","message":"Request completed in 0.027s: GET /metrics - 200","timestamp":"2025-02-09T06:09:06.157Z"}
+{"level":"info","message":"Request completed in 0.015s: GET /metrics - 200","timestamp":"2025-02-09T06:09:11.134Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:09:16.126Z"}
+{"level":"info","message":"Request completed in 0.012s: GET /metrics - 200","timestamp":"2025-02-09T06:09:21.129Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:09:26.126Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:09:31.126Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:09:36.127Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:09:41.125Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:09:46.124Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:09:51.125Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:09:56.121Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:10:01.127Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:10:06.124Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:10:11.202Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:10:16.119Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:10:21.116Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:10:26.114Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:10:31.115Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:10:36.129Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:10:41.114Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:10:46.115Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:10:51.114Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:10:56.113Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:11:01.112Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:11:06.112Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:11:11.111Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:11:16.110Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:11:21.110Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:11:26.109Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:11:31.109Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:11:36.110Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:11:41.109Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:11:46.108Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:11:51.108Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:11:56.107Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:12:01.107Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:12:06.106Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:12:11.106Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:12:16.109Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:12:21.105Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:12:26.105Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:12:31.104Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:12:36.103Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:12:41.105Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:12:46.102Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:12:51.103Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:12:56.099Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:13:01.102Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:13:06.101Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:13:11.101Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:13:16.100Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:13:21.100Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:13:26.097Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:13:31.098Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:13:36.099Z"}
+{"level":"error","message":"Worker 14532 died. Restarting...","timestamp":"2025-02-09T06:13:39.461Z"}
+{"level":"info","message":"Master process 792 is running","timestamp":"2025-02-09T06:13:44.897Z"}
+{"level":"info","message":"Worker 3016 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:13:47.053Z"}
+{"level":"info","message":"Worker 10788 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:13:47.085Z"}
+{"level":"info","message":"Worker 3016 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:13:47.163Z"}
+{"level":"info","message":"Request completed in 0.024s: GET /metrics - 200","timestamp":"2025-02-09T06:13:47.190Z"}
+{"level":"info","message":"Worker 10788 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:13:47.225Z"}
+{"level":"info","message":"Worker 13356 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:13:47.292Z"}
+{"level":"info","message":"Worker 16972 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:13:47.301Z"}
+{"level":"info","message":"Worker 13356 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:13:47.339Z"}
+{"level":"info","message":"Worker 16972 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:13:47.349Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T06:13:51.155Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:13:56.098Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:14:01.097Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:14:06.108Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:14:11.096Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:14:16.099Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T06:14:21.097Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T06:14:26.098Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:14:31.097Z"}
+{"level":"info","message":"Request completed in 0.012s: GET /metrics - 200","timestamp":"2025-02-09T06:14:36.103Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:14:41.094Z"}
+{"level":"info","message":"Request completed in 0.028s: GET /metrics - 200","timestamp":"2025-02-09T06:14:46.216Z"}
+{"level":"info","message":"Request completed in 0.013s: GET /metrics - 200","timestamp":"2025-02-09T06:14:51.104Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:14:56.098Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:15:01.096Z"}
+{"level":"info","message":"Request completed in 0.014s: GET /metrics - 200","timestamp":"2025-02-09T06:15:06.135Z"}
+{"level":"info","message":"Request completed in 0.015s: GET /metrics - 200","timestamp":"2025-02-09T06:15:11.107Z"}
+{"level":"info","message":"Request completed in 0.014s: GET /metrics - 200","timestamp":"2025-02-09T06:15:16.137Z"}
+{"level":"info","message":"Request completed in 0.022s: GET /metrics - 200","timestamp":"2025-02-09T06:15:21.222Z"}
+{"level":"info","message":"Request completed in 0.028s: GET /metrics - 200","timestamp":"2025-02-09T06:15:26.250Z"}
+{"level":"info","message":"Request completed in 0.051s: GET /metrics - 200","timestamp":"2025-02-09T06:15:31.337Z"}
+{"level":"info","message":"Request completed in 0.018s: GET /metrics - 200","timestamp":"2025-02-09T06:15:36.250Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:15:41.090Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:15:46.094Z"}
+{"level":"info","message":"Request completed in 0.012s: GET /metrics - 200","timestamp":"2025-02-09T06:15:51.093Z"}
+{"level":"info","message":"Request completed in 0.013s: GET /metrics - 200","timestamp":"2025-02-09T06:15:56.094Z"}
+{"level":"info","message":"Request completed in 0.011s: GET /metrics - 200","timestamp":"2025-02-09T06:16:01.092Z"}
+{"level":"info","message":"Request completed in 0.025s: GET /metrics - 200","timestamp":"2025-02-09T06:16:06.186Z"}
+{"level":"info","message":"Request completed in 0.016s: GET /metrics - 200","timestamp":"2025-02-09T06:16:11.132Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:16:16.090Z"}
+{"level":"info","message":"Request completed in 0.018s: GET /metrics - 200","timestamp":"2025-02-09T06:16:21.099Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:16:26.085Z"}
+{"level":"info","message":"Request completed in 0.017s: GET /metrics - 200","timestamp":"2025-02-09T06:16:31.169Z"}
+{"level":"info","message":"Request completed in 0.017s: GET /metrics - 200","timestamp":"2025-02-09T06:16:36.218Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:16:41.139Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T06:16:46.081Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:16:51.095Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:16:56.083Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:17:01.094Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:17:06.267Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:17:11.079Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:17:16.078Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:17:21.081Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:17:26.101Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:17:31.077Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:17:36.076Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:17:41.078Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:17:46.075Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:17:51.076Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:17:56.074Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:18:01.075Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:18:06.079Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:18:11.073Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:18:16.071Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:18:21.072Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:18:26.071Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:18:31.071Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:18:36.072Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:18:41.077Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:18:46.070Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:18:51.069Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:18:56.066Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:19:01.068Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:19:06.068Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:19:11.067Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:19:16.066Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:19:21.064Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:19:26.066Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:19:31.067Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:19:36.063Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:19:41.064Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:19:46.064Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:19:51.073Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:19:56.066Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:20:01.064Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:20:06.062Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:20:11.064Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:20:16.061Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:20:21.061Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:20:26.060Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:20:31.060Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:20:36.099Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:20:41.058Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:20:46.058Z"}
+{"level":"info","message":"Master process 13272 is running","timestamp":"2025-02-09T06:20:52.036Z"}
+{"level":"info","message":"Worker 5448 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:20:54.112Z"}
+{"level":"info","message":"Worker 16228 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:20:54.134Z"}
+{"level":"info","message":"Worker 5448 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:20:54.205Z"}
+{"level":"info","message":"Worker 20092 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:20:54.178Z"}
+{"level":"info","message":"Worker 16228 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:20:54.217Z"}
+{"level":"info","message":"Worker 20092 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:20:54.239Z"}
+{"level":"info","message":"Worker 11828 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:20:54.379Z"}
+{"level":"info","message":"Worker 11828 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:20:54.516Z"}
+{"level":"info","message":"Request completed in 0.015s: GET /metrics - 200","timestamp":"2025-02-09T06:20:56.077Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:21:01.060Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:21:06.064Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:21:11.062Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:21:16.062Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:21:21.069Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:21:26.065Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:21:31.063Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:21:36.059Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:21:41.061Z"}
+{"level":"info","message":"Request completed in 0.022s: GET /metrics - 200","timestamp":"2025-02-09T06:21:46.074Z"}
+{"level":"info","message":"Request completed in 0.031s: GET /metrics - 200","timestamp":"2025-02-09T06:21:51.099Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:21:56.057Z"}
+{"level":"info","message":"Request completed in 0.022s: GET /metrics - 200","timestamp":"2025-02-09T06:22:01.069Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:22:06.057Z"}
+{"level":"info","message":"Request completed in 0.016s: GET /metrics - 200","timestamp":"2025-02-09T06:22:11.093Z"}
+{"level":"info","message":"Request completed in 0.021s: GET /metrics - 200","timestamp":"2025-02-09T06:22:16.095Z"}
+{"level":"info","message":"Request completed in 0.029s: GET /metrics - 200","timestamp":"2025-02-09T06:22:21.130Z"}
+{"level":"info","message":"Request completed in 0.031s: GET /metrics - 200","timestamp":"2025-02-09T06:22:26.224Z"}
+{"level":"info","message":"Request completed in 0.038s: GET /metrics - 200","timestamp":"2025-02-09T06:22:31.220Z"}
+{"level":"info","message":"Request completed in 0.024s: GET /metrics - 200","timestamp":"2025-02-09T06:22:36.261Z"}
+{"level":"info","message":"Request completed in 0.013s: GET /metrics - 200","timestamp":"2025-02-09T06:22:41.059Z"}
+{"level":"info","message":"Request completed in 0.01s: GET /metrics - 200","timestamp":"2025-02-09T06:22:46.055Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:22:51.054Z"}
+{"level":"info","message":"Request completed in 0.016s: GET /metrics - 200","timestamp":"2025-02-09T06:22:56.058Z"}
+{"level":"info","message":"Request completed in 0.011s: GET /metrics - 200","timestamp":"2025-02-09T06:23:01.055Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:23:06.052Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:23:11.050Z"}
+{"level":"info","message":"Request completed in 0.022s: GET /metrics - 200","timestamp":"2025-02-09T06:23:16.065Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:23:21.049Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:23:26.049Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:23:31.049Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T06:23:36.047Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T06:23:41.046Z"}
+{"level":"info","message":"Request completed in 0.008s: GET /metrics - 200","timestamp":"2025-02-09T06:23:46.047Z"}
+{"level":"info","message":"Request completed in 0.009s: GET /metrics - 200","timestamp":"2025-02-09T06:23:51.051Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:23:56.046Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T06:24:01.044Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:24:06.052Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:24:11.041Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:24:16.040Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:24:21.040Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:24:26.038Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:24:31.036Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:24:36.037Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:24:41.037Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:24:46.037Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:24:51.036Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:24:56.038Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:25:01.036Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:25:06.035Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:25:11.036Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:25:16.034Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:25:21.034Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:25:26.032Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:25:31.031Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:25:36.032Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:25:41.031Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:25:46.031Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:25:51.031Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:25:56.031Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:26:01.029Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:26:06.030Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:26:11.029Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:26:16.029Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:26:21.029Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:26:26.028Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:26:31.027Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:26:36.026Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:26:41.025Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:26:46.026Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:26:51.044Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:26:56.027Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:27:01.025Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:27:06.024Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:27:11.024Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:27:16.024Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:27:21.023Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:27:26.024Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:27:31.022Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:27:36.181Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:27:41.024Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:27:46.021Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:27:51.030Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:27:56.056Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:28:01.042Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:28:06.046Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:28:11.019Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:28:16.017Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:28:21.012Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:28:26.013Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:28:31.012Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:28:36.012Z"}
+{"level":"info","message":"Request completed in 0.002s: GET /metrics - 200","timestamp":"2025-02-09T06:28:41.010Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:28:46.107Z"}
+{"level":"info","message":"Request completed in 0.006s: GET /metrics - 200","timestamp":"2025-02-09T06:28:51.144Z"}
+{"level":"info","message":"Request completed in 0.004s: GET /metrics - 200","timestamp":"2025-02-09T06:28:56.015Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:29:01.014Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:29:06.008Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:29:11.007Z"}
+{"level":"info","message":"Request completed in 0.005s: GET /metrics - 200","timestamp":"2025-02-09T06:29:16.008Z"}
+{"level":"info","message":"Request completed in 0.007s: GET /metrics - 200","timestamp":"2025-02-09T06:29:21.010Z"}
+{"level":"info","message":"Request completed in 0.003s: GET /metrics - 200","timestamp":"2025-02-09T06:29:26.003Z"}
+{"level":"info","message":"Master process 21104 is running","timestamp":"2025-02-09T06:29:33.459Z"}
+{"level":"info","message":"Worker 9236 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:29:35.597Z"}
+{"level":"info","message":"Worker 9628 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:29:35.597Z"}
+{"level":"info","message":"Worker 9236 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:29:35.678Z"}
+{"level":"info","message":"Worker 9628 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:29:35.679Z"}
+{"level":"info","message":"Worker 20320 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:29:35.710Z"}
+{"level":"info","message":"Worker 20320 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:29:35.766Z"}
+{"level":"info","message":"Worker 8652 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:29:35.759Z"}
+{"level":"info","message":"Worker 8652 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:29:35.798Z"}
+{"level":"info","message":"Request completed in 0.013s: GET /metrics - 200","timestamp":"2025-02-09T06:29:36.023Z"}
+{"level":"error","message":"Worker 9628 died. Restarting...","timestamp":"2025-02-09T06:29:38.034Z"}
+{"level":"info","message":"Master process 12332 is running","timestamp":"2025-02-09T06:29:39.353Z"}
+{"level":"error","message":"Worker 10824 died. Restarting...","timestamp":"2025-02-09T06:29:41.187Z"}
+{"level":"error","message":"Worker 16184 died. Restarting...","timestamp":"2025-02-09T06:29:41.209Z"}
+{"level":"error","message":"Worker 18812 died. Restarting...","timestamp":"2025-02-09T06:29:41.251Z"}
+{"level":"info","message":"Master process 20736 is running","timestamp":"2025-02-09T06:29:43.881Z"}
+{"level":"error","message":"Worker 11196 died. Restarting...","timestamp":"2025-02-09T06:29:44.115Z"}
+{"level":"info","message":"Master process 12356 is running","timestamp":"2025-02-09T06:29:50.326Z"}
+{"level":"error","message":"Worker 20160 died. Restarting...","timestamp":"2025-02-09T06:29:53.294Z"}
+{"level":"error","message":"Worker 11292 died. Restarting...","timestamp":"2025-02-09T06:29:53.448Z"}
+{"level":"error","message":"Worker 12512 died. Restarting...","timestamp":"2025-02-09T06:29:53.500Z"}
+{"level":"info","message":"Master process 19876 is running","timestamp":"2025-02-09T06:29:56.638Z"}
+{"level":"info","message":"Worker 12340 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:30:00.201Z"}
+{"level":"info","message":"Worker 20380 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:30:00.205Z"}
+{"level":"info","message":"Worker 14184 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:30:00.319Z"}
+{"level":"info","message":"Worker 12340 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:30:00.407Z"}
+{"level":"info","message":"Worker 20380 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:30:00.415Z"}
+{"level":"info","message":"Worker 14184 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:30:00.456Z"}
+{"level":"info","message":"Worker 19132 is running and handling WebSocket connections on port 8000","timestamp":"2025-02-09T06:30:00.850Z"}
+{"level":"info","message":"Worker 19132 subscribed to 1 channel(s)","timestamp":"2025-02-09T06:30:00.929Z"}
